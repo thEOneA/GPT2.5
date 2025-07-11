@@ -1,3 +1,3 @@
-**Recreating GPT2.5** 
+## Recreating GPT2.5
 
-## Nick Shin 申东勋 at Fudan University
+#### Nick Shin 申东勋 at Fudan University
